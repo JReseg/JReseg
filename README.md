@@ -1,5 +1,5 @@
 <h1 align="center">🌍 Javier Reyes Segovia</h1>
----
+
 ### 🧠 Sobre mí
 
 🎓 Estudiante de 2º Curso de ASIR
