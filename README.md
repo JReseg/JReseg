@@ -1,4 +1,4 @@
-<h1 align="center">🌍 Javier Reyes Segovia</h1>
+<h1 align="center">🌍 Javier R. S.</h1>
 
 <h2>🧠 Sobre mí</h2>
 
